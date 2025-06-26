@@ -1,2 +1,2 @@
-# Unsupervised-Clustering
-Iris Dataset Clustering
+# Iris Dataset Clustering : Using K-Means, Hierarchical & DBSCAN Algorithms
+Iris dataset, is a classic dataset used in machine learning and statistics. It contains measurements of 150 iris flowers, with 50 samples from each of three species: Iris setosa, Iris versicolor, and Iris virginica. The dataset includes four features for each sample: sepal length, sepal width, petal length, and petal width, all measured in centimeters. The Iris dataset is commonly used to demonstrate and practice classification and clustering algorithms. It's a good example because the species are relatively well-separated based on the given features, making it suitable for testing and comparing different machine learning models. Here we are using K-means, Hierarchical and DBSCAN algorithms to cluster Iris flower species. 
